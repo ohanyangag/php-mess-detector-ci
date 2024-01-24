@@ -1,0 +1,1 @@
+Run: ./vendor/bin/phpmd { FOLDER } { METHOD : ansi,json,xml } { RULESET_CONFIG_FILE_PATH }
